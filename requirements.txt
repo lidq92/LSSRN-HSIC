@@ -1,0 +1,22 @@
+numpy==2.1.2
+fpzip==1.2.4
+scipy==1.14.1
+rasterio==1.4.1
+pandas==2.2.3
+h5py==3.12.1
+matplotlib==3.9.2
+tensorboard==2.18.0
+# pip install numpy==2.1.2
+# pip install fpzip==1.2.4
+# pip install scipy==1.14.1
+# pip install rasterio==1.4.1
+# pip install pandas==2.2.3
+# pip install h5py==3.12.1 # READ matlab v7.3 file
+# pip install matplotlib==3.9.2 # pillow==11.0.0
+# pip install tensorboard==2.18.0
+# imageio==2.36.0
+
+# GDAL==3.10.0 # install from source after installing the needed drivers
+
+# conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia # pytorch-2.5.0-py3.10_cuda12.1_cudnn9.1.0_0, torchvision-0.20.0 
+# conda install ignite -c pytorch # pytorch-ignite==0.5.1
